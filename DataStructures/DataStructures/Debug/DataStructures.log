@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  DataStructures.cpp
+  ListInt.cpp
+c:\users\comp\desktop\datastructures\datastructures\datastructures\listint.cpp(242): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ListString.cpp
+c:\users\comp\desktop\datastructures\datastructures\datastructures\liststring.cpp(182): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  PolinomADT.cpp
+c:\users\comp\desktop\datastructures\datastructures\datastructures\polinomadt.cpp(162): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  SetADT.cpp
+c:\users\comp\desktop\datastructures\datastructures\datastructures\setadt.cpp(293): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Stack.cpp
+c:\users\comp\desktop\datastructures\datastructures\datastructures\stack.cpp(175): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
